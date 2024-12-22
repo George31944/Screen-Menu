@@ -1,0 +1,43 @@
+#ifndef __PHOTO_H__
+#define __PHOTO_H__
+typedef unsigned  char uint8_t;
+extern uint8_t display[8][128];
+extern const unsigned char gImage_tmp[78];
+extern const unsigned char gImage_fans[78];
+extern const unsigned char gImage_dianya[78];
+extern const unsigned char gImage_music[78];
+extern const unsigned char gImage_light[78];
+extern const unsigned char gImage_back[42];
+extern const unsigned char bianjie[78];
+extern const unsigned char wen[72];
+extern const unsigned char shi[72];
+extern const unsigned char du[72];
+extern const unsigned char maohao[24];
+extern const unsigned char xiaoshudian[24];
+extern const unsigned char num_0[48];
+extern const unsigned char num_1[48];
+extern const unsigned char num_2[48];
+extern const unsigned char num_3[48];
+extern const unsigned char num_4[48];
+extern const unsigned char num_5[48];
+extern const unsigned char num_6[48];
+extern const unsigned char num_7[48];
+extern const unsigned char num_8[48];
+extern const unsigned char num_9[48];
+extern const unsigned char nums[10][48];
+extern const unsigned char num_clear[48];
+extern const unsigned char gImage_switch_on[78];
+extern const unsigned char gImage_switch_off[78];
+extern const unsigned char gImage_back2[78];
+extern const unsigned char gImage_speed_up[75];
+extern const unsigned char gImage_speed_dawn[75];
+extern const unsigned char gImage_speed1[294];
+extern const unsigned char gImage_speed2[294];
+extern const unsigned char gImage_speed3[294];
+extern const unsigned char bianjie2[78];
+extern const unsigned char speed_clear[294];
+extern const unsigned char gImage_light_off[78];
+extern const unsigned char gImage_light_on[78];
+extern const unsigned char dian[72];
+extern const unsigned char ya[72];
+#endif
